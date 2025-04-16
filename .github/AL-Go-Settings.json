@@ -1,6 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
+  "templateUrl": "https://github.com/freddydk/AL-Go@ratelimit",
   "appDependencyProbingPaths": [
     {
       "repo": "https://github.com/BusinessCentralApps/DepApp1",
@@ -9,5 +9,5 @@
       "projects": "*"
     }
   ],
-  "templateSha": "e788b9c3b4e348608cda7ed0040adf5fd10f83e3"
+  "templateSha": "42cc5c9fb9ac10a11cd4858cbd28c643f048304f"
 }
