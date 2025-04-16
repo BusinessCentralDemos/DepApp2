@@ -3,7 +3,7 @@
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
   "appDependencyProbingPaths": [
     {
-      "repo": "https://github.com/BusinessCentralDemos/DepApp1",
+      "repo": "https://github.com/BusinessCentralApps/DepApp1",
       "authTokenSecret": "GHAPPTOKENWORKFLOW",
       "release_status": "latestbuild",
       "projects": "*"
